@@ -17,3 +17,6 @@ alias db1='sudo dell-bios-fan-control 1 && awcc g'
 alias db0='awcc b && sudo dell-bios-fan-control 0'
 alias py='python'
 
+export SYSTEMD_PAGER=cat
+export PAGER=cat
+export SUDO_EDITOR=/usr/bin/nvim
