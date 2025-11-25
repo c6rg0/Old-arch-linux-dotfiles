@@ -1,3 +1,5 @@
+# NOTE: THIS REPO IS NO LONGER MAINTAINED
+
 Dotfiles - configuration files which are traditionally stored in files/folders whose filename starts with a dot (.config) - from the arch wiki.
 
 The original waybar config is made by Anik200 - https://github.com/Anik200/dotfiles/tree/super-waybar.
